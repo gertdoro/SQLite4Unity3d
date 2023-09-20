@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 536870912,
+"dataUrl": "tunneldata.unityweb",
+"asmCodeUrl": "tunnelcode.unityweb",
+"asmMemoryUrl": "tunnelmemory.unityweb",
+"asmFrameworkUrl": "tunnelframework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
