@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "lastwood.data",
+"asmCodeUrl": "lastwood.asm.code",
+"asmMemoryUrl": "lastwood.asm.memory",
+"asmFrameworkUrl": "lastwood.asm.framework",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
